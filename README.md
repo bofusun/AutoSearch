@@ -11,7 +11,8 @@ On the one hand, we demonstrate that unrestricted search depth in agentic RAG ca
 On the other hand, building on this finding, the AutoSearch framework evaluates each search step through self-generated intermediate answers, identifying the minimal sufficient search depth via a self-answering mechanism, thus enabling efficient search by rewarding its attainment while penalizing over-searching. In addition, we introduce reward mechanisms to stabilize search behavior and improve answer quality on complex questions.
 Through extensive experiments on multiple benchmarks, AutoSearch demonstrates a superior accuracy-efficiency trade-off, alleviating over-searching while preserving search quality, surpassing prior agentic RAG methods.
 
-![Uploading ca43f85c-f5c9-422d-b70e-3fbde9d0a85f.png…]()
+<img width="1219" height="726" alt="ca43f85c-f5c9-422d-b70e-3fbde9d0a85f" src="https://github.com/user-attachments/assets/60bf534b-6416-482d-8b5f-0b782e2610c9" />
+
 
 ---
 # Quick Start
