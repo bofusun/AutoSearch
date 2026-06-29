@@ -1,0 +1,45 @@
+envs_dirs:
+  - /mnt/dolphinfs/ssd_pool/docker/user/hadoop-ai-search/sunjingbo/conda_envs
+
+channels:
+  - http://10.70.17.132/pkgs/main/
+  - http://10.70.17.132/pkgs/free/
+  - http://10.70.17.132/pkgs/mro/
+  - http://10.70.17.132/pkgs/pro/
+  - http://10.70.17.132/pkgs/msys2/
+  - http://10.70.17.132/pkgs/r/
+  - http://10.70.17.132/cloud/Paddle
+  - http://10.70.17.132/cloud/auto
+  - http://10.70.17.132/cloud/biobakery
+  - http://10.70.17.132/cloud/bioconda
+  - http://10.70.17.132/cloud/caffe2
+  - http://10.70.17.132/cloud/conda-forge
+  - http://10.70.17.132/cloud/deepmodeling
+  - http://10.70.17.132/cloud/dglteam
+  - http://10.70.17.132/cloud/fastai
+  - http://10.70.17.132/cloud/fermi
+  - http://10.70.17.132/cloud/idaholab
+  - http://10.70.17.132/cloud/intel
+  - http://10.70.17.132/cloud/matsci
+  - http://10.70.17.132/cloud/menpo
+  - http://10.70.17.132/cloud/MindSpore
+  - http://10.70.17.132/cloud/msys2
+  - http://10.70.17.132/cloud/numba
+  - http://10.70.17.132/cloud/ohmeta
+  - http://10.70.17.132/cloud/omnia
+  - http://10.70.17.132/cloud/peterjc123
+  - http://10.70.17.132/cloud/qiime2
+  - http://10.70.17.132/cloud/plotly
+  - http://10.70.17.132/cloud/psi4
+  - http://10.70.17.132/cloud/pytorch
+  - http://10.70.17.132/cloud/pytorch-lts
+  - http://10.70.17.132/cloud/pytorch-test
+  - http://10.70.17.132/cloud/pytorch3d
+  - http://10.70.17.132/cloud/pyviz
+  - http://10.70.17.132/cloud/rapidsai
+  - http://10.70.17.132/cloud/rdkit
+  - http://10.70.17.132/cloud/simpleitk
+  - http://10.70.17.132/cloud/stackless
+  - http://10.70.17.132/cloud/ursky
+
+show_channel_urls: true
